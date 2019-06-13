@@ -9,9 +9,9 @@ Welcome to the intermediate level of Code The Web. The course will be more techn
 
 | Week | Date | Topics |
 | --- | --- | --- |
-| 0 | :bangbang: | [Learning Objectives](./week-zero/learning-objectives), [Classroom Rules](./week-zero/rules), [Basic Command Line, Git & Github](./week-zero/terminal-git) |
-| 1 | June 22 | [Classroom Git Workflow, Variables, Primitives, Arrays](./week-one/javascript-dom/) |
-| 2 | June 29 | [Conditionals, Functions, Object, Iterators, DOM](./week-two/javascript-dom/) |
+| 0 | :bangbang: | [Learning Objectives](./week-zero/learning-objectives), [Classroom Rules](./week-zero/rules), [Command Line, Git & Github](./week-zero/terminal-git) |
+| 1 | June 22 | [Classroom Git Workflow, Dev Tools, Variables, Primitives, Arrays, DOM](./week-one/javascript-dom/) |
+| 2 | June 29 | [Conditionals, Functions, Object, Iterators, Events](./week-two/javascript-dom/) |
 | 3 | July 6 | [Client-server Model](./week-three/) |
 | 4 | July 13 | [Project](./week-three/) |
 | 5 | July 20 | [Intro to Wordpress](./week-three/) |
