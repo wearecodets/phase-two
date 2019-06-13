@@ -10,9 +10,9 @@ Welcome to the intermediate level of Code The Web. Since we have a lot to cover,
 
 | Week | Topics |
 | :--- | :--- |
-| 0 | Important stuff that you should always keep in mind: [Learning Objectives](./week-zero/learning-objectives), [Classroom Rules](./week-zero/rules), [Basic Git](./week-zero/basic-git), [Learn Command Line](./week-zero/command-line) |
-| 1 | [Developers Workflow, Basic Javascript, DOM](./week-one/javascript-dom/) |
-| 2 | [Developers Workflow, Basic Javascript, DOM](./week-two/javascript-dom/) |
+| 0 | [Learning Objectives](./week-zero/learning-objectives), [Classroom Rules](./week-zero/rules) |
+| 1 | [Basic Command Line, Git & Github, Classroom Git Workflow](./week-one/javascript-dom/) |
+| 2 | [Basic Javascript, DOM](./week-two/javascript-dom/) |
 | 3 | [Project](./week-three/) |
 | 3 | [Project](./week-three/) |
 | 3 | [Intro to Wordpress](./week-three/) |
