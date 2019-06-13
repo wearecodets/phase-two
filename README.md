@@ -9,27 +9,27 @@ Welcome to the intermediate level of Code The Web. The course will be more techn
 
 | Week | Date | Topics |
 | --- | --- | --- |
-| 0 | :bangbang: | [Learning Objectives](./week-zero/learning-objectives), [Classroom Rules](./week-zero/rules) |
-| 1 | June 22 | [Basic Command Line, Git & Github, Classroom Git Workflow, Variables, Primitives, Arrays](./week-one/javascript-dom/) |
+| 0 | :bangbang: | [Learning Objectives](./week-zero/learning-objectives), [Classroom Rules](./week-zero/rules), [Basic Command Line, Git & Github](./week-zero/terminal-git) |
+| 1 | June 22 | [Classroom Git Workflow, Variables, Primitives, Arrays](./week-one/javascript-dom/) |
 | 2 | June 29 | [Conditionals, Functions, Object, Iterators, DOM](./week-two/javascript-dom/) |
-| 3 | July 6 | [](./week-three/) |
+| 3 | July 6 | [Client-server Model](./week-three/) |
 | 4 | July 13 | [Project](./week-three/) |
 | 5 | July 20 | [Intro to Wordpress](./week-three/) |
 | 6 | July 27 | [Project](./week-three/) |
 | 7 | Aug 3 | [Cloud Functions](./week-three/) |
-| 8 | Aug 10 | [Cloud Functions](./week-three/) |
+| 8 | Aug 10 | [HTTP Request, Cloud Functions](./week-three/) |
 
-## Guide
-Each week you will find learning materials categorized into different sections:
+## Learning Guide
+Each week above you will find learning materials categorized into these different sections:
 
-* :closed_book: **Required Reading/Challenges** \
+* :closed_book:  **Required Reading/Challenges** \
 Read before beginning of class
 
-* :pencil2: **Homework Exercises** \
+* :pencil2:  **Homework Exercises** \
 Due before beginning of next class. You must code review on Thursday. We track this.
 
-* :mag_right: **In The Classroom** \
+* :mag_right:  **In The Classroom** \
 Together we will see how this week's concepts are used in the real-world. You will get a chance to ask questions about the examples.
 
-* :octocat: **Optional Resources** \
+* :octocat:  **Optional Resources** \
 Additional materials that can help boost understanding of concepts.
