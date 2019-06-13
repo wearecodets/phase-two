@@ -1,32 +1,35 @@
 # Code The Web: Phase Two
-Welcome to the intermediate level of Code The Web. Since we have a lot to cover, this course will be more technical and move much faster than the previous phase. **You will learn a lot here, so:**
+Welcome to the intermediate level of Code The Web. The course will be more technical and move much faster than the previous phase. **Keep in mind that you are required to:**
 
-> ***REMEMBER* — \
-> You are required to *self-manage* how you use your time weekly, \
-> *self-motivate* yourself to progress forward, \
-> *self-learn* many of the material through the resources we provide and your own research.**
+> 1. ***Self-manage*** how you use your time wisely.
+> 2. ***Self-motivate*** yourself to progress forward.
+> 3. ***Self-learn*** the course topics through the resources we provide and also your own research.
 
 ## Course Syllabus
 
-| Week | Topics |
-| :--- | :--- |
-| 0 | [Learning Objectives](./week-zero/learning-objectives), [Classroom Rules](./week-zero/rules) |
-| 1 | [Basic Command Line, Git & Github, Classroom Git Workflow](./week-one/javascript-dom/) |
-| 2 | [Basic Javascript, DOM](./week-two/javascript-dom/) |
-| 3 | [Project](./week-three/) |
-| 3 | [Project](./week-three/) |
-| 3 | [Intro to Wordpress](./week-three/) |
-| 3 | [Project](./week-three/) |
-| 3 | [Cloud Functions](./week-three/) |
+| Week | Date | Topics |
+| --- | --- | --- |
+| 0 | :bangbang: | [Learning Objectives](./week-zero/learning-objectives), [Classroom Rules](./week-zero/rules) |
+| 1 | June 22 | [Basic Command Line, Git & Github, Classroom Git Workflow, Variables, Primitives, Arrays](./week-one/javascript-dom/) |
+| 2 | June 29 | [Conditionals, Functions, Object, Iterators, DOM](./week-two/javascript-dom/) |
+| 3 | July 6 | [](./week-three/) |
+| 4 | July 13 | [Project](./week-three/) |
+| 5 | July 20 | [Intro to Wordpress](./week-three/) |
+| 6 | July 27 | [Project](./week-three/) |
+| 7 | Aug 3 | [Cloud Functions](./week-three/) |
+| 8 | Aug 10 | [Cloud Functions](./week-three/) |
 
 ## Guide
 Each week you will find learning materials categorized into different sections:
 
 * :closed_book: **Required Reading/Challenges** \
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem pariatur provident eaque, obcaecati laudantium officia dolores maxime illum assumenda. Dolor tenetur saepe voluptatem iure suscipit hic labore, consequuntur cum at.
+Read before beginning of class
 
 * :pencil2: **Homework Exercises** \
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem pariatur provident eaque, obcaecati laudantium officia dolores maxime illum assumenda. Dolor tenetur saepe voluptatem iure suscipit hic labore, consequuntur cum at.
+Due before beginning of next class. You must code review on Thursday. We track this.
+
+* :mag_right: **In The Classroom** \
+Together we will see how this week's concepts are used in the real-world. You will get a chance to ask questions about the examples.
 
 * :octocat: **Optional Resources** \
-Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+Additional materials that can help boost understanding of concepts.
