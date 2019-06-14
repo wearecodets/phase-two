@@ -8,7 +8,7 @@ This course is an eight-week long, project-based, intensive course. It requires 
 
 To increase your chance of success throughout the course, you are expected to:
 
-1. ***Self-manage*** how you use your time wisely and build a study habits.
+1. ***Self-manage*** how you use your time wisely and build good study habits.
 2. ***Self-motivate*** yourself both mentally and physically to commit to the program.
 3. ***Self-learn*** the course topics through the resources we provide and also your own research.
 
@@ -16,6 +16,6 @@ To increase your chance of success throughout the course, you are expected to:
 
 ## Attendance & Participation
 
-To mimic real-world software development scenarios in jobs and universities, I will not be tracking attendance but performance. I will be tracking your performance to measure your participation and progress through Git commits, pull requests, and code reviews. If you decide to not attend class, I would appreciate a simple heads-up. 
+To mimic real-world software development scenarios in jobs and universities, I will not be tracking attendance but performance. I will be measuring your participation and progress through Git commits, pull requests, and code reviews. If you decide to not attend class, I would appreciate a simple heads-up on WhatsApp. 
 
 If you rarely attend the class but are always self-learning at home and performing well — Good for you, buddy! Stay home!

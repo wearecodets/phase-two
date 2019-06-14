@@ -1,7 +1,3 @@
-# Code The Web: Phase Two
-
-Welcome to the intermediate level of Code The Web.
-
 # Course Syllabus
 
 ## Pre-work
