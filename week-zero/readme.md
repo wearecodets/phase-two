@@ -17,10 +17,6 @@
 
 - [ ] [Exploring Github](http://mod0.turing.io/session4/#github)
 
-## :pencil2:  **Homework Exercises**
-
-Accept your homework [here]() and follow the instruction in the repo.
-
 ## :octocat:  **Optional Reading**
 
 * [Files, Directories, and Paths](http://mod0.turing.io/session3/#filesdirectories)
