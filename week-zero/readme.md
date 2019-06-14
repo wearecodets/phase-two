@@ -4,18 +4,18 @@
 
 ### Command Line
 
-- [] [Navigating the File System](https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation) (9 exercises)
-- [] [Viewing and Changing the File System](https://www.codecademy.com/courses/learn-the-command-line/lessons/command-line-manipulation) (10 exercises)
+- [ ] [Navigating the File System](https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation) (9 exercises)
+- [ ] [Viewing and Changing the File System](https://www.codecademy.com/courses/learn-the-command-line/lessons/command-line-manipulation) (10 exercises)
 
 ### Git
 
-- [] [Basic Git Workflow](https://www.codecademy.com/courses/learn-git/lessons/git-workflow) (9 exercises)
-- [] [Git Branching](https://www.codecademy.com/courses/learn-git/lessons/git-branching) (10 exercises)
-- [] [Git Teamwork](https://www.codecademy.com/courses/learn-git/lessons/git-teamwork) (8 exercises)
+- [ ] [Basic Git Workflow](https://www.codecademy.com/courses/learn-git/lessons/git-workflow) (9 exercises)
+- [ ] [Git Branching](https://www.codecademy.com/courses/learn-git/lessons/git-branching) (10 exercises)
+- [ ] [Git Teamwork](https://www.codecademy.com/courses/learn-git/lessons/git-teamwork) (8 exercises)
 
 ### Github
 
-- [] [Exploring Github](http://mod0.turing.io/session4/#github)
+- [ ] [Exploring Github](http://mod0.turing.io/session4/#github)
 
 ## :pencil2:  **Homework Exercises**
 
