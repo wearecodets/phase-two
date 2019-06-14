@@ -10,7 +10,7 @@
 ### Git
 
 - [ ] [Basic Git Workflow](https://www.codecademy.com/courses/learn-git/lessons/git-workflow) (9 exercises)
-- [x] [Git Branching](https://www.codecademy.com/courses/learn-git/lessons/git-branching) (10 exercises)
+- [ ] [Git Branching](https://www.codecademy.com/courses/learn-git/lessons/git-branching) (10 exercises)
 - [ ] [Git Teamwork](https://www.codecademy.com/courses/learn-git/lessons/git-teamwork) (8 exercises)
 
 ### Github
@@ -19,7 +19,7 @@
 
 ## :pencil2:  **Homework Exercises**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem pariatur provident eaque, obcaecati laudantium officia dolores maxime illum assumenda. Dolor tenetur saepe voluptatem iure suscipit hic labore, consequuntur cum at.
+Accept your homework [here]() and follow the instruction in the repo.
 
 ## :octocat:  **Optional Reading**
 
