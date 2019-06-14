@@ -10,7 +10,7 @@
 ### Git
 
 - [ ] [Basic Git Workflow](https://www.codecademy.com/courses/learn-git/lessons/git-workflow) (9 exercises)
-- [ ] [Git Branching](https://www.codecademy.com/courses/learn-git/lessons/git-branching) (10 exercises)
+- [x] [Git Branching](https://www.codecademy.com/courses/learn-git/lessons/git-branching) (10 exercises)
 - [ ] [Git Teamwork](https://www.codecademy.com/courses/learn-git/lessons/git-teamwork) (8 exercises)
 
 ### Github
