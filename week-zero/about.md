@@ -2,7 +2,7 @@
 
 ## About
 
-This is a practical, project-based course on Git, modern Javascript as well as relevant tooling in both front and back-end development.
+This is a practical, project-based course on Git, modern Javascript as well as relevant tooling in front and back-end development.
 
 To mimic real-world software development scenarios in jobs, universities, or bootcamps, the teaching approach will be in the style of [guided-learning](http://www.teachingtoolbox.us/direct-vs-guided). This means students will take an active role in the learning process through their own self-discovery of information while the instructor will simply act as a facilitator or guide. Per week, this translates to roughly 20% classroom time (3 hours) and 80% self-learn work (12 hours).
 
