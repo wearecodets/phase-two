@@ -1,6 +1,6 @@
 # Class Intro, Client-server Model, Workflows
 
-This week we will cover class agenda, mini projects, readings, and code review.
+This week we will cover class agenda, mini projects, required readings, code review sessions and how to prepare for the week.
 
 ## :closed_book:  **Required Reading**
 
