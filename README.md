@@ -11,19 +11,19 @@
 
 | Week | Date | Topics |
 | --- | --- | --- |
-| 1 | June 22 | [Classroom Git Workflow, Dev Tools, Variables, Primitives, Arrays, DOM](./week-one/javascript-dom/) |
-| 2 | June 29 | [Conditionals, Functions, Object, Iterators, Events](./week-two/javascript-dom/) |
-| 3 | July 6 | [Client-server Model](./week-three/) |
+| 1 | June 22 | [Classroom Git Workflow, Client-server Model, Variables, Functions, DOM, Browser Events](./week-one/javascript-dom/) |
+| 2 | June 29 | [Array, Object, Conditionals, Dev Tools](./week-two/javascript-dom/) |
+| 3 | July 6 | [Iterators](./week-three/) |
+| 4 | July 13 | [Project](./week-four/) |
+| 5 | July 20 | [Project](./week-five/) |
 
 ## Back-end
 
 | Week | Date | Topics |
 | --- | --- | --- |
-| 4 | July 13 | [Project](./week-three/) |
-| 5 | July 20 | [Intro to Wordpress](./week-three/) |
-| 6 | July 27 | [Project](./week-three/) |
-| 7 | Aug 3 | [Cloud Functions](./week-three/) |
-| 8 | Aug 10 | [HTTP Request, Cloud Functions](./week-three/) |
+| 6 | July 27 | [Node.js, Serverless Functions](./week-six/) |
+| 7 | Aug 3 | [API, HTTP Request, Promises](./week-seven/) |
+| 8 | Aug 10 | [Project](./week-eight/) |
 
 ## Learning Guide
 Each week above you will find learning materials categorized into these different sections:
@@ -34,9 +34,9 @@ Read before beginning of class
 * :pencil2:  **Homework Exercises** \
 Due before beginning of next class. You must code review on Thursday. We track this.
 
-* :dart:  **Practical Applications** \
-Answer challenges during the week.
-Together we will see how this week's concepts are used in the real-world. You will get a chance to ask questions about the examples.
-
 * :octocat:  **Optional Resources** \
 Additional materials that can help boost understanding of concepts.
+
+* :dart:  **Weekly Mini Projects ** \
+Answer challenges during the week.
+Together we will see how this week's concepts are used in the real-world. You will get a chance to ask questions about the examples.

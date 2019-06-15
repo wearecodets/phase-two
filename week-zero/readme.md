@@ -24,3 +24,7 @@
 * [A Command Line Primer for Beginners](https://lifehacker.com/a-command-line-primer-for-beginners-5633909)
 * [Switching From Windows to Nix or a Newbie to Linux](https://www.tecmint.com/useful-linux-commands-for-newbies/)
 * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
+
+## :pencil2:  **Homework Exercises**
+
+[Accept your homework]() and follow the instruction in the repo.
