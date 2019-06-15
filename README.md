@@ -1,11 +1,12 @@
-# Course Syllabus
+# Code The Web: Phase Two
 
-## Pre-work
+This is a practical, project-based course on Git, modern Javascript as well as relevant tooling in both front and back-end development.
 
-| Week | Date | Topics |
+## Course Syllabus 
+
+| Week | Date | Tasks |
 | --- | --- | --- |
-| 0 | :pushpin: | [About The Course](./week-zero/about.md), [Command Line, Git, Github](./week-zero) 
-
+| 0 | Pre-work | Read [About The Course](./week-zero/about.md), Complete [Command Line, Git, Github](./week-zero) 
 
 ## Front-end
 
@@ -24,19 +25,3 @@
 | 6 | July 27 | [Common Backend Architecture, Node.js, Serverless Functions](./week-six/) |
 | 7 | Aug 3 | [HTTP Request, APIs, JSON, Cloud Data Store](./week-seven/) |
 | 8 | Aug 10 | [Promises, Project](./week-eight/) |
-
-## Learning Guide
-Each week above you will find learning materials categorized into these different sections:
-
-* :closed_book:  **Required Reading/Challenges** \
-Read these before beginning of next Saturday class. As you finish each reading, mark it as complete  using `[x]` in the `readme.md` file, then do a commit push. [Read more about task lists here](https://help.github.com/en/articles/about-task-lists#creating-task-lists).
-
-* :dart:  **Weekly Mini Projects ** \
-These are the mini projects we will build this week in class. You are encouraged to pre-watch them.
-
-* :pencil2:  **Homework Exercises** \
-Due before beginning of next Saturday class. You must participate in Thursday code review session for each homework assignment as this is one of the ways we measure your progress.
-
-* :octocat:  **Optional Resources** \
-Additional materials that can help boost understanding of concepts. Though not mandatory, you are welcome to read these — [*Scientia potentia est*](https://en.wikipedia.org/wiki/Scientia_potentia_est).
-

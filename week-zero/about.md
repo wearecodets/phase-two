@@ -16,9 +16,21 @@ To increase your chance of success throughout the course, you are expected to:
 
 > Each Saturday, come to class after having read the materials assigned for that week. Otherwise, it might be challenging to catch up on reading while completing the weekly assignment at the same time especially if you are totally new to programming.
 
-## Attendance & Participation
+## Learning Guide
 
-Your attendance will not be tracked but your performance will. Participation and progress will be measured through Git commits, pull requests, and code reviews. That said, if you decide to not attend class, I would appreciate a simple heads-up on WhatsApp. If you rarely attend the class but are always self-learning at home and performing well — Good for you, buddy! Stay home!
+Each week above you will find learning materials categorized into these different sections:
+
+* :closed_book:  **Required Reading/Challenges** \
+Read these before beginning of next Saturday class. As you finish each reading, mark it as complete  using `[x]` in the `readme.md` file, then do a commit push. [Read more about task lists here](https://help.github.com/en/articles/about-task-lists#creating-task-lists).
+
+* :dart:  **Weekly Mini Projects ** \
+These are the mini projects we will build this week in class. You are encouraged to pre-watch them.
+
+* :pencil2:  **Homework Exercises** \
+Due before beginning of next Saturday class. You must participate in Thursday code review session for each homework assignment as this is one of the ways we measure your progress.
+
+* :octocat:  **Optional Resources** \
+Additional materials that can help boost understanding of concepts. Though not mandatory, you are welcome to read these — [*Scientia potentia est*](https://en.wikipedia.org/wiki/Scientia_potentia_est).
 
 ## Classroom Agenda
 
@@ -31,3 +43,7 @@ Each 3-hour class session will strictly follow the following structure:
 * 5 min: Break 
 * 45 min: Mini Project #3 (Self-work)
 * 5 min: Practical applications of today's concepts
+
+## Attendance & Participation
+
+Your attendance will not be tracked but your performance will. Participation and progress will be measured through Git commits, pull requests, and code reviews. That said, if you decide to not attend class, I would appreciate a simple heads-up on WhatsApp. If you rarely attend the class but are always self-learning at home and performing well — Good for you, buddy! Stay home!
