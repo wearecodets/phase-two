@@ -4,7 +4,7 @@ This week we will cover class agenda, mini projects, readings, and code review.
 
 ## :closed_book:  **Required Reading**
 
-*Finish the required reading for [the previous week](../week-zero) if you have not done so.*
+*Finish the required reading for [the previous week](../week-zero) if you have not done so.* Remember to mark completion and `git push` to Github.
 
 ### Client-server Model
 
@@ -13,4 +13,4 @@ This week we will cover class agenda, mini projects, readings, and code review.
 
 ## :pencil2:  **Homework Exercises**
 
-[Accept your homework here]() and follow the instruction in the repo. Remember to participate in the code review session next Thursday.
+[Accept your homework here]() and follow the instruction in the repo. Remember to participate in the online code review session next Thursday.

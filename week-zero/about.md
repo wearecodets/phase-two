@@ -25,7 +25,7 @@ Read these before beginning of next Saturday class. As you finish each reading, 
 These are the 3 mini projects we will build this week in class from [this Youtube playlist](https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH). You are encouraged to pre-watch them.
 
 * :pencil2:  **Homework Exercises** \
-Due before beginning of next Saturday class. You **must** participate in Thursday code review session for each homework assignment as this is one of the ways we measure your progress.
+Due before beginning of next Saturday class. You **must** participate in Thursday code review session for each homework assignment as this is one of the ways we measure your progress. Code reviews are done online on Github.
 
 * :octocat:  **Optional Resources** \
 Additional materials that can help boost understanding of concepts. Though not mandatory, you are welcome to read these — [*Scientia potentia est*](https://en.wikipedia.org/wiki/Scientia_potentia_est).
