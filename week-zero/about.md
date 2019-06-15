@@ -1,6 +1,4 @@
-# Code The Web: Phase Two
-
-## About
+# Course Info
 
 This is a practical, project-based course on Git, modern Javascript as well as relevant tooling in front and back-end development.
 
@@ -23,7 +21,7 @@ Each week above you will find learning materials categorized into these differen
 * :closed_book:  **Required Reading/Challenges** \
 Read these before beginning of next Saturday class. As you finish each reading, mark it as complete  using `[x]` in the `readme.md` file, then do a commit push. [Read more about task lists here](https://help.github.com/en/articles/about-task-lists#creating-task-lists).
 
-* :dart:  **Weekly Mini Projects ** \
+* :dart:  **Weekly Mini Projects** \
 These are the mini projects we will build this week in class. You are encouraged to pre-watch them.
 
 * :pencil2:  **Homework Exercises** \

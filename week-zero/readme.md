@@ -1,5 +1,7 @@
 # Command Line, Git and Github 
 
+This week we will cover:
+
 ## :closed_book:  **Required Reading**
 
 ### Command Line
@@ -17,7 +19,7 @@
 
 - [ ] [Exploring Github](http://mod0.turing.io/session4/#github)
 
-## :octocat:  **Optional Reading**
+## :octocat:  **Optional Resources**
 
 * [Files, Directories, and Paths](http://mod0.turing.io/session3/#filesdirectories)
 * [Terminal and Command Line](http://mod0.turing.io/session3/#terminalcommandline)

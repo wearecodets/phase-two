@@ -6,7 +6,7 @@ This is a practical, project-based course on Git, modern Javascript as well as r
 
 | Week | Date | Tasks |
 | --- | --- | --- |
-| 0 | Pre-work | [Read About The Class](./week-zero/about.md), [Complete Command Line, Git, Github](./week-zero) 
+| 0 | Pre-work | [Read Course Info](./week-zero/about.md), [Complete Command Line, Git, Github](./week-zero) 
 
 ## Front-end
 
@@ -16,7 +16,7 @@ This is a practical, project-based course on Git, modern Javascript as well as r
 | 2 | June 29 | [Variables, Functions, DOM, Browser Events, Dev Tools](./week-two) |
 | 3 | July 6 | [Array, Object, Conditionals, Iterators](./week-three) |
 | 4 | July 13 | [Modules, Final Project](./week-four) |
-| 5 | July 20 | [Project, Final Project](./week-five) |
+| 5 | July 20 | [Final Project](./week-five) |
 
 ## Back-end (Tentative)
 
