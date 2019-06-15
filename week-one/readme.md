@@ -13,4 +13,4 @@ This week we will cover class agenda, mini projects, required readings, code rev
 
 ## :pencil2:  **Homework Exercises**
 
-[Accept your homework here]() and follow the instruction in the repo. Remember to participate in the online code review session next Thursday.
+[Accept your homework here](https://classroom.github.com/a/hKUKZJtH) and follow the instruction in the repo. Remember to participate in the online code review session next Thursday.
