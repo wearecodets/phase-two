@@ -22,12 +22,12 @@ Your attendance will not be tracked but your performance will. Participation and
 
 ## Classroom Agenda
 
-Each 3-hour class session will follow the following structure:
+Each 3-hour class session will strictly follow the following structure:
 
-10 min: Housekeeping, Feedback, and Goals
-10 min: Classes, Attributes and Methods
-15 min: Files, Directories, and Paths
-35 min: Terminal and Command Line
-5 min: Break
-40 min: Git Basics
-5 min: Troubleshooting Demo
+* 30 min: Discuss homework challenges from PRs
+* 45 min: Mini Project #1
+* 5 min: Break 
+* 45 min: Mini Project #2
+* 5 min: Break 
+* 45 min: Mini Project #3 (Self-work)
+* 5 min: Practical applications of today's concepts

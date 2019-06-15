@@ -11,19 +11,19 @@
 
 | Week | Date | Topics |
 | --- | --- | --- |
-| 1 | June 22 | [Classroom Git Workflow, Client-server Model, Variables, Functions, DOM, Browser Events](./week-one/javascript-dom/) |
-| 2 | June 29 | [Array, Object, Conditionals, Dev Tools](./week-two/javascript-dom/) |
-| 3 | July 6 | [Iterators](./week-three/) |
-| 4 | July 13 | [Project](./week-four/) |
+| 1 | June 22 | [Class Intro, Client-server Model, Git Workflow, Local Development Workflow](./week-one/javascript-dom/) |
+| 2 | June 29 | [Variables, Functions, DOM, Browser Events, Dev Tools](./week-two/javascript-dom/) |
+| 3 | July 6 | [Array, Object, Conditionals, Iterators](./week-three/) |
+| 4 | July 13 | [Modules](./week-four/) |
 | 5 | July 20 | [Project](./week-five/) |
 
-## Back-end
+## Back-end (Tentative)
 
 | Week | Date | Topics |
 | --- | --- | --- |
-| 6 | July 27 | [Node.js, Serverless Functions](./week-six/) |
-| 7 | Aug 3 | [API, HTTP Request, Promises](./week-seven/) |
-| 8 | Aug 10 | [Project](./week-eight/) |
+| 6 | July 27 | [Common Backend Architecture, Node.js, Serverless Functions](./week-six/) |
+| 7 | Aug 3 | [HTTP Request, APIs, JSON, Cloud Data Store](./week-seven/) |
+| 8 | Aug 10 | [Promises, Project](./week-eight/) |
 
 ## Learning Guide
 Each week above you will find learning materials categorized into these different sections:
