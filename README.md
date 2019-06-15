@@ -12,7 +12,7 @@ This is a practical, project-based course on Git, modern Javascript as well as r
 
 | Week | Date | Topics |
 | --- | --- | --- |
-| 1 | June 22 | [Class Intro (agenda, mini projects, readings, code review), Client-server Model, Git Workflow, Local Development Workflow](./week-one) |
+| 1 | June 22 | [Class Intro, Client-server Model, Git Workflow, Local Development Workflow](./week-one) |
 | 2 | June 29 | [Variables, Functions, DOM, Browser Events, Dev Tools](./week-two) |
 | 3 | July 6 | [Array, Object, Conditionals, Iterators](./week-three) |
 | 4 | July 13 | [Modules, Final Project](./week-four) |
