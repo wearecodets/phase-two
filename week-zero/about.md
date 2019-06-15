@@ -22,7 +22,7 @@ Each week above you will find learning materials categorized into these differen
 Read these before beginning of next Saturday class. As you finish each reading, mark it as complete  using `[x]` in the `readme.md` file, then do a commit push. [Read more about task lists here](https://help.github.com/en/articles/about-task-lists#creating-task-lists).
 
 * :dart:  **Weekly Mini Projects** \
-These are the mini projects we will build this week in class. You are encouraged to pre-watch them.
+These are the 3 mini projects we will build this week in class from [this Youtube playlist](https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH). You are encouraged to pre-watch them.
 
 * :pencil2:  **Homework Exercises** \
 Due before beginning of next Saturday class. You **must** participate in Thursday code review session for each homework assignment as this is one of the ways we measure your progress.
