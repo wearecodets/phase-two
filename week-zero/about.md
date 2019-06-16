@@ -78,4 +78,4 @@ By submitting pull requests for each assignment, you will develop the skills and
 
 After signing in, *do not upgrade your CodeAcademy subscription to Pro*. There is no need for you to do the exercises with PRO label on them — only do the free ones. For example:
 
-![No PRO](https://res.cloudinary.com/yicf/image/upload/w_500,q_70/v1560677108/Code%20The%20Web/codeacademy.jpg)
+![No PRO](https://res.cloudinary.com/yicf/image/upload/w_500/v1560677108/Code%20The%20Web/codeacademy.jpg)
