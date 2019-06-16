@@ -11,6 +11,7 @@ To mimic real-world software development scenarios in jobs, universities, or boo
 * [Learning Guide](#learning-guide)
 * [Classroom Agenda](#classroom-agenda)
 * [Homework Pull Requests](#homework-pull-requests)
+* [Using CodeAcademy](#using-codeacademy)
 
 ## Expectations
 
@@ -31,7 +32,7 @@ Your attendance will not be tracked but your performance will. Participation and
 Each week above you will find learning materials categorized into these different sections:
 
 * :closed_book:  **Required Reading/Challenges** \
-Read these before beginning of next Saturday class. As you finish each reading, mark it as complete  using `[x]` in the `readme.md` file, then do a commit push. [Read more about task lists here](https://help.github.com/en/articles/about-task-lists#creating-task-lists).
+Read these before beginning of next Saturday class. As you finish each reading, mark it as complete  using `[x]` in the `readme.md` file, then do a commit push. [Read more about task lists here](https://help.github.com/en/articles/about-task-lists#creating-task-lists). For CodeAcademy challenges, refer to the [Using CodeAcademy](#using-codeacademy) section below.
 
 * :dart:  **Weekly Mini Projects** \
 These are the 3 mini projects we will build this week in class from [this Youtube playlist](https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH). You are encouraged to pre-watch them.
@@ -72,3 +73,9 @@ By submitting pull requests for each assignment, you will develop the skills and
 5. After creating a PR, [ask the instructor for a review](https://help.github.com/en/articles/requesting-a-pull-request-review) by adding his/her name under the **Reviewers** section in the right sidebar.
 
 5. The instructor will respond to your pull request on Thursday and, if everything looks good, the `answer` branch will be merged to `master`.
+
+## Using CodeAcademy
+
+After signing in, *do not upgrade your CodeAcademy subscription to Pro*. There is no need for you to do the exercises with PRO label on them — only do the free ones. For example:
+
+![No PRO](https://res.cloudinary.com/yicf/image/upload/w_500,q_70/v1560677108/Code%20The%20Web/codeacademy.jpg)

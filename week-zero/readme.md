@@ -17,6 +17,7 @@ This week we will cover:
 
 ### Github
 
+- [ ] [Github: Hello World](https://guides.github.com/activities/hello-world)
 - [ ] [Exploring Github](http://mod0.turing.io/session4/#github)
 
 ## :octocat:  **Optional Resources**
