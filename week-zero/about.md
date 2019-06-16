@@ -7,7 +7,7 @@ To mimic real-world software development scenarios in jobs, universities, or boo
 ## Table of Contents
 
 * [Expectations](#expectations)
-* [Attendance & Participation](#attendance-participation)
+* [Attendance & Participation](#attendance--participation)
 * [Learning Guide](#learning-guide)
 * [Classroom Agenda](#classroom-agenda)
 * [Homework Pull Requests](#homework-pull-requests)
