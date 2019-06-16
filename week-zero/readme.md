@@ -23,6 +23,7 @@ Most of the crucial tasks you will do as a developer will involve using a text-b
 ## :octocat:  **Optional Resources**
 
 * [Learn Git Branching](https://learngitbranching.js.org)
+* [Git: The Simple Guide](http://rogerdudler.github.io/git-guide/)
 * [Files, Directories, and Paths](http://mod0.turing.io/session3/#filesdirectories)
 * [Terminal and Command Line](http://mod0.turing.io/session3/#terminalcommandline)
 * [A Command Line Primer for Beginners](https://lifehacker.com/a-command-line-primer-for-beginners-5633909)
