@@ -31,7 +31,7 @@ Your attendance will not be tracked but your performance will. Participation and
 
 Each week above you will find learning materials categorized into these different sections:
 
-* :closed_book:  **Required Reading/Challenges** \
+* :closed_book:  **Required Readings/Challenges** \
 Read these before beginning of next Saturday class. As you finish each reading, mark it as complete  using `[x]` in the `readme.md` file, then do a commit push. [Read more about task lists here](https://help.github.com/en/articles/about-task-lists#creating-task-lists). For CodeAcademy challenges, refer to the [Using CodeAcademy](#using-codeacademy) section below.
 
 * :dart:  **Weekly Mini Projects** \
