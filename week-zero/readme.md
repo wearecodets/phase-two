@@ -1,6 +1,6 @@
 # Command Line, Git and Github 
 
-This week we will cover:
+Most of the crucial tasks you will do as a developer will involve using a text-based tool called the command line and Git. You will need to understand the basic of these two tools before the first day of class.
 
 ## :closed_book:  **Required Reading**
 
