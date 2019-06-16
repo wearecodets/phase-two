@@ -21,6 +21,7 @@ This week we will cover:
 
 ## :octocat:  **Optional Resources**
 
+* [Learn Git Branching](https://learngitbranching.js.org)
 * [Files, Directories, and Paths](http://mod0.turing.io/session3/#filesdirectories)
 * [Terminal and Command Line](http://mod0.turing.io/session3/#terminalcommandline)
 * [A Command Line Primer for Beginners](https://lifehacker.com/a-command-line-primer-for-beginners-5633909)
