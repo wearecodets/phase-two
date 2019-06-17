@@ -10,8 +10,9 @@ To mimic real-world software development scenarios in jobs, universities, or boo
 * [Attendance & Participation](#attendance--participation)
 * [Learning Guide](#learning-guide)
 * [Classroom Agenda](#classroom-agenda)
-* [Homework Pull Requests](#homework-pull-requests)
 * [Using CodeAcademy](#using-codeacademy)
+* [Homework Pull Requests](#homework-pull-requests)
+* [Forking The Syllabus](#forking-the-syllabus)
 
 ## Expectations
 
@@ -55,6 +56,16 @@ Each 3-hour Saturday class session will strictly follow the following structure:
 * **45 min:** Mini Project #3 (Self-work)
 * **5 min:** Practical applications of today's concepts
 
+## Using CodeAcademy
+
+After signing in, *DO NOT upgrade your CodeAcademy subscription to Pro*. There is no need for you to do the exercises with PRO label on them — only do the free ones:
+
+![No PRO](https://res.cloudinary.com/yicf/image/upload/w_500/v1560677108/Code%20The%20Web/codeacademy.jpg)
+
+Similarly, if a pop up appears after a lesson, click **Start next lesson** to skip the PRO project:
+
+![No PRO Project](https://res.cloudinary.com/yicf/image/upload/w_500/v1560679730/Code%20The%20Web/codeacademy-popup.jpg).
+
 ## Homework Pull Requests
 
 By submitting pull requests for each assignment, you will develop the skills and collaboration mindset that will help you when working with others on a real-world team. Pull requests allow you to experiment and document your  process and let the class instructor give feedback on them. It works a bit like this:
@@ -74,12 +85,6 @@ By submitting pull requests for each assignment, you will develop the skills and
 
 5. The instructor will respond to your pull request on Thursday and, if everything looks good, the `answer` branch will be merged to `master`.
 
-## Using CodeAcademy
+## Forking The Syllabus
 
-After signing in, *DO NOT upgrade your CodeAcademy subscription to Pro*. There is no need for you to do the exercises with PRO label on them — only do the free ones:
-
-![No PRO](https://res.cloudinary.com/yicf/image/upload/w_500/v1560677108/Code%20The%20Web/codeacademy.jpg)
-
-Similarly, if a pop up appears after a lesson, click **Start next lesson** to skip the PRO project:
-
-![No PRO Project](https://res.cloudinary.com/yicf/image/upload/w_500/v1560679730/Code%20The%20Web/codeacademy-popup.jpg).
+In order for you to mark each week's required readings as complete, you will need to [fork this syllabus repo](https://help.github.com/en/articles/fork-a-repo) and learn how to [keep forks in sync](https://help.github.com/en/articles/syncing-a-fork).
