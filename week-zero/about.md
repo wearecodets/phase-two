@@ -25,7 +25,7 @@ To increase your chance of success throughout the course, you are expected to:
 
 ## Attendance & Participation
 
-Your attendance will not be tracked but your performance will. Participation and progress will be measured through Git commits, pull requests, and code reviews. That said, if you decide to not attend class, I would appreciate a simple heads-up on WhatsApp. If you rarely attend the class but are always self-learning at home and performing well — Good for you, buddy! Stay home!
+Your attendance will not be tracked but your performance will. Participation and progress will be measured through Git commits, pull requests, and code reviews. That said, if you decide to not attend class, I would appreciate a simple heads-up on WhatsApp. If you rarely attend the class but are self-learning at home and have a solid commit/PR history — Good for you, buddy!
 
 ## Learning Guide
 
