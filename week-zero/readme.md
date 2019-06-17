@@ -4,21 +4,21 @@ Most of the crucial tasks you will do as a developer will involve using a text-b
 
 ## :closed_book:  **Required Readings**
 
-### Command Line
+* ### Command Line
 
-- [ ] [Navigating the File System](https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation) (9 exercises)
-- [ ] [Viewing and Changing the File System](https://www.codecademy.com/courses/learn-the-command-line/lessons/command-line-manipulation) (10 exercises)
+  - [ ] [Navigating the File System](https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation) (9 exercises)
+  - [ ] [Viewing and Changing the File System](https://www.codecademy.com/courses/learn-the-command-line/lessons/command-line-manipulation) (10 exercises)
 
-### Git
+* ### Git
 
-- [ ] [Basic Git Workflow](https://www.codecademy.com/courses/learn-git/lessons/git-workflow) (9 exercises)
-- [ ] [Git Branching](https://www.codecademy.com/courses/learn-git/lessons/git-branching) (10 exercises)
-- [ ] [Git Teamwork](https://www.codecademy.com/courses/learn-git/lessons/git-teamwork) (8 exercises)
+  - [ ] [Basic Git Workflow](https://www.codecademy.com/courses/learn-git/lessons/git-workflow) (9 exercises)
+  - [ ] [Git Branching](https://www.codecademy.com/courses/learn-git/lessons/git-branching) (10 exercises)
+  - [ ] [Git Teamwork](https://www.codecademy.com/courses/learn-git/lessons/git-teamwork) (8 exercises)
 
-### Github
+* ### Github
 
-- [ ] [Github: Hello World](https://guides.github.com/activities/hello-world)
-- [ ] [Exploring Github](http://mod0.turing.io/session4/#github)
+  - [ ] [Github: Hello World](https://guides.github.com/activities/hello-world)
+  - [ ] [Exploring Github](http://mod0.turing.io/session4/#github)
 
 ## :octocat:  **Optional Resources**
 

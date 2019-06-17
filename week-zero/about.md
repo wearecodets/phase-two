@@ -33,7 +33,7 @@ Your attendance will not be tracked but your performance will. Participation and
 Each week above you will find learning materials categorized into these different sections:
 
 * :closed_book:  **Required Readings/Challenges** \
-Read these before beginning of next Saturday class. As you finish each reading, mark it as complete  using `[x]` in the `readme.md` file, then do a commit push. [Read more about task lists here](https://help.github.com/en/articles/about-task-lists#creating-task-lists). For CodeAcademy challenges, refer to the [Using CodeAcademy](#using-codeacademy) section below.
+Read/do these before beginning of next Saturday class. As you finish each reading, [mark it as complete  using `[x]`](https://help.github.com/en/articles/about-task-lists#creating-task-lists) in the `readme.md` file, then do a commit push. This will be counted as your *reading participation for the week*. For CodeAcademy challenges, refer to the [Using CodeAcademy](#using-codeacademy) section below.
 
 * :dart:  **Weekly Mini Projects** \
 These are the 3 mini projects we will build this week in class from [this Youtube playlist](https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH). You are encouraged to pre-watch them.
@@ -87,4 +87,4 @@ By submitting pull requests for each assignment, you will develop the skills and
 
 ## Forking The Syllabus
 
-In order for you to mark each week's required readings as complete, you will need to [fork this syllabus repo](https://help.github.com/en/articles/fork-a-repo) and learn how to [keep forks in sync](https://help.github.com/en/articles/syncing-a-fork).
+In order for you to mark each week's required readings as complete, you will need to [fork this syllabus repo](https://help.github.com/en/articles/fork-a-repo) and learn how to [keep forks in sync](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser).
