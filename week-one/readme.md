@@ -17,6 +17,7 @@ Saturday's agenda:
 
 * ### The Client-server Model
 
+  - [ ] [How The Internet Works in 5 Minutes](https://youtube.com/watch?v=7_LPdttKXPc)
   - [ ] [How The Internet Works](https://medium.com/@fay_jai/how-the-internet-works-a-simple-explanation-ca8053c71661)
   - [ ] [How The Web Works](http://frontend.turing.io/lessons/module-2/how-the-web-works.html)
 
