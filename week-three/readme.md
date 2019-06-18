@@ -2,11 +2,31 @@
 
 This week we will cover:
 
-## :closed_book:  **Required Reading**
+## :closed_book: &nbsp; **Required Reading**
 
-## :dart:  **Weekly Mini Projects**
+*Finish the required reading for [the previous week](../week-two) if you have not done so.* Remember to mark completion for reading participation points.
 
-## :octocat:  **Optional Resources**
+  - [ ] [Conditional Statements](https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow) (11 exercises)
+  - [ ] [Arrays](https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays) (12 exercises)
+  - [ ] [Objects](https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects) (10 exercises)
+  - [ ] [Iterators](https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators) (9 exercises)
+  - [ ] [Scope](https://www.codecademy.com/courses/introduction-to-javascript/lessons/scope) (7 exercises)
+
+## :dart: &nbsp; **Weekly Mini Projects**
+
+1. [Array Cardio Day 1](https://www.youtube.com/watch?v=HB1ZC7czKRs&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=4)
+    * Demo: [Link](https://yhabib.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/index.html)
+    * Summary: [Link](https://github.com/usyyy/javascript/blob/master/JavaScript30/analysis.md#4-array-cardio-day-1)
+2. [Key Sequence Detection](https://www.youtube.com/watch?v=_A5eVOIqGLU&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=12)
+    * Demo: [Link](https://yhabib.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/index.html)
+    * Summary: [Link](https://github.com/usyyy/javascript/blob/master/JavaScript30/analysis.md#12-key-sequence-detection)
+3. [LocalStorage](https://www.youtube.com/watch?v=YL1F4dCUlLc&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=15)
+    * Demo: [Link](https://yhabib.github.io/JavaScript30/15%20-%20LocalStorage/index.html)
+    * Summary: [Link](https://github.com/usyyy/javascript/blob/master/JavaScript30/analysis.md#15-localstorage)
+
+## :octocat: &nbsp; **Optional Resources**
+
+* [JavaScript Objects](https://www.w3schools.com/js/js_objects.asp)
 
 ## :pencil2: &nbsp; **Homework Exercises**
 
