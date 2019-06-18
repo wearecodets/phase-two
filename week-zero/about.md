@@ -32,16 +32,16 @@ Your attendance will not be tracked but your performance will. Participation and
 
 Each week above you will find learning materials categorized into these different sections:
 
-* :closed_book:  **Required Readings/Challenges** \
+* :closed_book: &nbsp; **Required Readings/Challenges** \
 Read/do these before beginning of next Saturday class. As you finish each reading, [mark it as complete  using `[x]`](https://help.github.com/en/articles/about-task-lists#creating-task-lists) in the `readme.md` file, then do a commit push. This will be counted as your *reading participation for the week*. For CodeAcademy challenges, refer to the [Using CodeAcademy](#using-codeacademy) section below.
 
-* :dart:  **Weekly Mini Projects** \
+* :dart: &nbsp; **Weekly Mini Projects** \
 These are the 3 mini projects we will build this week in class from [this Youtube playlist](https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH). You are encouraged to pre-watch them.
 
-* :pencil2:  **Homework Exercises** \
+* :pencil2: &nbsp; **Homework Exercises** \
 Due before beginning of next Saturday class. You **must** participate in Thursday code review session for each homework assignment as this is one of the ways we measure your progress. Code reviews are done online on Github, so if you are still unclear about requesting a PR review [see this document](https://help.github.com/en/articles/requesting-a-pull-request-review).
 
-* :octocat:  **Optional Resources** \
+* :octocat: &nbsp; **Optional Resources** \
 Additional materials that can help boost understanding of concepts. Though not mandatory, you are welcome to read these — [*Scientia potentia est*](https://en.wikipedia.org/wiki/Scientia_potentia_est).
 
 ## Classroom Agenda
