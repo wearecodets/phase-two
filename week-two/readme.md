@@ -4,6 +4,8 @@ This week we will cover:
 
 ## :closed_book: &nbsp; **Required Reading**
 
+*Finish the required reading for [the previous week](../week-one) if you have not done so.* Remember to mark completion for reading participation points.
+
 * ### Variables & Functions
 
   - [ ] [Introduction](https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript) (10 exercises)
