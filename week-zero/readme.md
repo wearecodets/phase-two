@@ -17,13 +17,14 @@ Most of the crucial tasks you will do as a developer will involve using a text-b
 
 * ### Github
 
+  - [ ] [Git and Github in Plain English](https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english)
   - [ ] [Github: Hello World](https://guides.github.com/activities/hello-world)
-  - [ ] [Exploring Github](http://mod0.turing.io/session4/#github)
 
 ## :octocat:  **Optional Resources**
 
 * [Learn Git Branching](https://learngitbranching.js.org)
 * [Git: The Simple Guide](http://rogerdudler.github.io/git-guide/)
+* [Exploring Github](http://mod0.turing.io/session4/#github)
 * [Files, Directories, and Paths](http://mod0.turing.io/session3/#filesdirectories)
 * [Terminal and Command Line](http://mod0.turing.io/session3/#terminalcommandline)
 * [A Command Line Primer for Beginners](https://lifehacker.com/a-command-line-primer-for-beginners-5633909)
