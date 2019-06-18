@@ -41,4 +41,4 @@ This week we will cover:
 
 ## :pencil2: &nbsp; **Homework Exercises**
 
-[Accept your homework here]() and follow the instruction in the repo. [Submit a Pull Request](../week-zero/about.md#homework-pull-request) by next Thursday to participate in the code review session.
+[Accept your homework here](https://classroom.github.com/a/wkQ3k-zl) and follow the instruction in the repo. [Submit a Pull Request](../week-zero/about.md#homework-pull-request) by next Thursday to participate in the code review session.
