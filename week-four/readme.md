@@ -6,7 +6,6 @@ This week we will cover:
 
 *Finish the required reading for [the previous week](../week-one) if you have not done so.* Remember to mark completion for reading participation points.
 
-  - [ ] [Another Reading](https://google.com)
   - [ ] [Arrow Functions](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=3382s) (From 56:22 to 59:25)
   - [ ] [Loops](https://www.codecademy.com/courses/introduction-to-javascript/lessons/loops) (10 exercises)
   - [ ] [Browser Compatibility and Transpilation](https://www.codecademy.com/courses/introduction-to-javascript/lessons/browser-compatibility-and-transpilation) (11 exercises)
