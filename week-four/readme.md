@@ -21,6 +21,7 @@ This week we will cover:
 ## :octocat: &nbsp; **Optional Resources**
 
 * [Best Practices for Modals / Overlays / Dialog Windows](https://uxplanet.org/best-practices-for-modals-overlays-dialog-windows-c00c66cddd8c)
+* [Best Practices for Modals / Overlays / Dialog Windows](https://uxplanet.org/best-practices-for-modals-overlays-dialog-windows-c00c66cddd8c)
 
 ## :pencil2: &nbsp; **Homework Exercises**
 
