@@ -1,6 +1,6 @@
 # Class Intro, Client-server Model, Workflows
 
-This week we will cover:
+This week we will cover
 
 ## :closed_book:  **Required Reading**
 
