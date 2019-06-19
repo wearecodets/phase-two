@@ -37,6 +37,8 @@ This week we will cover:
 * [What's the DOM, and why you should know how to use it](https://www.freecodecamp.org/news/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d/)
 * [Traversing the DOM](https://zellwk.com/blog/dom-traversals/)
 * [Altering the DOM](https://zellwk.com/blog/js-in-dom/)
+* [DOM Crash Course](https://www.youtube.com/watch?v=0ik6X4DJKCc)
+* [Event Listeners Crash Course](https://www.youtube.com/watch?v=wK2cBMcDTss)
 * [A Vanilla JS Guide On Mastering the DOM](https://dev.to/bouhm/a-vanilla-js-guide-on-mastering-the-dom-3l9b)
 
 ## :pencil2: &nbsp; **Homework Exercises**

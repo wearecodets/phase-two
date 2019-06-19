@@ -4,7 +4,9 @@ This week we will cover:
 
 ## :closed_book:  **Required Reading**
 
-## :dart:  **Weekly Mini Projects**
+## :dart: &nbsp; **Weekly Mini Projects**
+
+1. [Airtable Form]()
 
 ## :octocat:  **Optional Resources**
 

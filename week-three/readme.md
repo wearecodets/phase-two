@@ -20,13 +20,14 @@ This week we will cover:
 2. [Key Sequence Detection](https://www.youtube.com/watch?v=_A5eVOIqGLU&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=12)
     * Demo: [Link](https://yhabib.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/index.html)
     * Summary: [Link](https://github.com/usyyy/javascript/blob/master/JavaScript30/analysis.md#12-key-sequence-detection)
-3. [LocalStorage](https://www.youtube.com/watch?v=YL1F4dCUlLc&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=15)
-    * Demo: [Link](https://yhabib.github.io/JavaScript30/15%20-%20LocalStorage/index.html)
-    * Summary: [Link](https://github.com/usyyy/javascript/blob/master/JavaScript30/analysis.md#15-localstorage)
+3. [Create a Modal With HTML, CSS & JS](https://www.youtube.com/watch?v=6ophW7Ask_0)
+    * Demo: [Link](https://codepen.io/bradtraversy/pen/zEOrPp)
 
 ## :octocat: &nbsp; **Optional Resources**
 
+* [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=1433s) (From 23:53 to 34:20)
 * [JavaScript Objects](https://www.w3schools.com/js/js_objects.asp)
+* [Best Practices for Modals / Overlays / Dialog Windows](https://uxplanet.org/best-practices-for-modals-overlays-dialog-windows-c00c66cddd8c)
 
 ## :pencil2: &nbsp; **Homework Exercises**
 
