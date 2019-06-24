@@ -15,10 +15,9 @@ This week we will cover:
 
 * ### DOM & Browser Events
 
-   *You need to sign up for a free Udacity account*.
-
-  - [ ] [The Document Object Model](https://classroom.udacity.com/courses/ud117/lessons/74c2a096-61db-4302-9d65-6b7fa9b8c329/concepts/354d9102-8b45-4a89-91df-6f5ec9022dbd) (8 exercises)
-  - [ ] [Working with Browser Events](https://classroom.udacity.com/courses/ud117/lessons/f270dbcf-eb43-4ce3-b7be-a74d26023496/concepts/f63b1837-b096-4707-b0f5-72bc6a93bfac) (7 exercises)
+  - [ ] [DOM Crash Course](https://www.youtube.com/watch?v=0ik6X4DJKCc)
+  - [ ] [Event Listeners Crash Course](https://www.youtube.com/watch?v=wK2cBMcDTss)
+  - [ ] [A Vanilla JS Guide On Mastering the DOM](https://dev.to/bouhm/a-vanilla-js-guide-on-mastering-the-dom-3l9b)
 
 ## :dart: &nbsp; **Weekly Mini Projects**
 
@@ -34,9 +33,6 @@ This week we will cover:
 
 ## :octocat: &nbsp; **Optional Resources**
 
-* [DOM Crash Course](https://www.youtube.com/watch?v=0ik6X4DJKCc)
-* [Event Listeners Crash Course](https://www.youtube.com/watch?v=wK2cBMcDTss)
-* [A Vanilla JS Guide On Mastering the DOM](https://dev.to/bouhm/a-vanilla-js-guide-on-mastering-the-dom-3l9b)
 * [Traversing the DOM](https://zellwk.com/blog/dom-traversals/)
 * [What's the DOM, and why you should know how to use it](https://www.freecodecamp.org/news/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d/)
 * [Altering the DOM](https://zellwk.com/blog/js-in-dom/)
