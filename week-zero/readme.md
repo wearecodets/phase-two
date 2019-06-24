@@ -23,19 +23,22 @@ Most of the crucial tasks you will do as a developer will involve using a text-b
 
 ## :octocat:  **Optional Resources**
 
-* ### Git & GitHub
+* ### Cheatsheets
 
   * [Git Cheatsheet](https://drive.google.com/uc?export=download&id=1VjeSRhrKsi8RH32gPFB__z9TV7yzQegA)
   * [Git Workflow Cheatsheet](https://drive.google.com/uc?export=download&id=14ZuBAXmRM-JiWcC9MKFTG5_Kfqw9Pd5a)
+  * [Command Line Cheatsheet](https://drive.google.com/uc?export=download&id=12izeAt1f1WsFy_cmjLlTB_62nJuaD5Hg)
+
+* ### Git & GitHub
+
+  * [Git Visualizer](https://git-school.github.io/visualizing-git)
   * [Learn Git Branching](https://learngitbranching.js.org)
   * [Oh shit, git!](https://ohshitgit.com)
   * [Git: The Simple Guide](http://rogerdudler.github.io/git-guide/)
   * [Git Staging Area: Explained Like I'm Five](https://dev.to/sublimegeek/git-staging-area-explained-like-im-five-1anh)
-  * [Exploring Github](http://mod0.turing.io/session4/#github)
 
 * ### Command Line
 
-  * [Command Line Cheatsheet](https://drive.google.com/uc?export=download&id=12izeAt1f1WsFy_cmjLlTB_62nJuaD5Hg)
   * [Files, Directories, and Paths](http://mod0.turing.io/session3/#filesdirectories)
   * [Terminal and Command Line](http://mod0.turing.io/session3/#terminalcommandline)
   * [A Command Line Primer for Beginners](https://lifehacker.com/a-command-line-primer-for-beginners-5633909)
