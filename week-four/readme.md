@@ -20,7 +20,7 @@ This week we will cover:
 
 ## :octocat: &nbsp; **Optional Resources**
 
-* [Best Practices for Modals / Overlays / Dialog Windows](https://uxplanet.org/best-practices-for-modals-overlays-dialog-windows-c00c66cddd8c)
+* [32 User Interface Elements For UI Designers](https://careerfoundry.com/en/blog/ui-design/ui-element-glossary/)
 
 ## :pencil2: &nbsp; **Homework Exercises**
 
