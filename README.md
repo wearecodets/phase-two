@@ -1,6 +1,6 @@
 # Code The Web: Phase Two
 
-This is a practical, project-based course on Git, modern Javascript as well as relevant tooling in front and back-end development.
+This is a practical, project-based course on Git, modern Javascript as well as relevant tooling in front and back-end development. [Read Course Info](./week-zero/about.md).
 
 ## Course Syllabus 
 
@@ -15,8 +15,8 @@ This is a practical, project-based course on Git, modern Javascript as well as r
 | 1 | June 22 | [Class Intro, Client-server Model, Git Workflow, Local Development Workflow](./week-one) |
 | 2 | June 29 | [Variables, Functions, DOM, Browser Events, Dev Tools](./week-two) |
 | 3 | July 6 | [Array, Object, Conditionals, Iterators](./week-three) |
-| 4 | July 13 | [Modules, Final Project](./week-four) |
-| 5 | July 20 | [Final Project](./week-five) |
+| 4 | July 13 | [Arrow Functions, Forms, Transpiler, Modules](./week-four) |
+| 5 | July 20 | [Promises, APIs, JSON, Final Project](./week-five) |
 
 ## Back-end (Tentative)
 

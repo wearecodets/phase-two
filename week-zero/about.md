@@ -33,7 +33,7 @@ Your attendance will not be tracked but your performance will. Participation and
 Each week above you will find learning materials categorized into these different sections:
 
 * :closed_book: &nbsp; **Required Readings/Challenges** \
-Read/do these before beginning of next Saturday class. As you finish each reading, [mark it as complete  using `[x]`](https://help.github.com/en/articles/about-task-lists#creating-task-lists) in your `Work in progress` issue. This will be counted as your *reading participation for each week*. For CodeAcademy challenges, refer to the [Using CodeAcademy](#using-codeacademy) section below.
+Read/do these before beginning of next Saturday class. As you finish each reading, [mark it as complete  using `[x]`](https://help.github.com/en/articles/about-task-lists#creating-task-lists) in your [`Work in progress` issue](https://github.com/wearecodets/phase-two/issues). This will be counted as your *reading participation for each week*. For CodeAcademy challenges, refer to the [Using CodeAcademy](#using-codeacademy) section below.
 
 * :dart: &nbsp; **Weekly Mini Projects** \
 These are the 3 mini projects we will build this week in class from [this Youtube playlist](https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH). You are encouraged to pre-watch them.

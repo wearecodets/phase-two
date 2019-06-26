@@ -6,22 +6,23 @@ This week we will cover:
 
 *Finish the required reading for [the previous week](../week-two) if you have not done so.* Remember to [mark completion](../week-zero/about.md#learning-guide) for reading participation points.
 
-  - [ ] [Conditional Statements](https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow) (11 exercises)
   - [ ] [Arrays](https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays) (12 exercises)
-  - [ ] [Objects](https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects) (10 exercises)
   - [ ] [Iterators](https://www.codecademy.com/courses/introduction-to-javascript/lessons/javascript-iterators) (9 exercises)
+  - [ ] [Objects](https://www.codecademy.com/courses/introduction-to-javascript/lessons/objects) (10 exercises)
   - [ ] [Scope](https://www.codecademy.com/courses/introduction-to-javascript/lessons/scope) (7 exercises)
+  - [ ] [Intro to BEM Methodology](https://www.youtube.com/watch?v=SLjHSVwXYq4)
 
 ## :dart: &nbsp; **Weekly Mini Projects**
 
 1. [Array Cardio Day 1](https://www.youtube.com/watch?v=HB1ZC7czKRs&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=4)
-    * Demo: [Link](https://yhabib.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/index.html)
+    * Demo: [Link](https://vanntile.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/)
     * Summary: [Link](https://github.com/usyyy/javascript/blob/master/JavaScript30/analysis.md#4-array-cardio-day-1)
+    * Start: [Link](https://github.com/wesbos/JavaScript30/blob/master/04%20-%20Array%20Cardio%20Day%201/index-START.html)
 2. [Key Sequence Detection](https://www.youtube.com/watch?v=_A5eVOIqGLU&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=12)
-    * Demo: [Link](https://yhabib.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/index.html)
+    * Demo: [Link](https://vanntile.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/)
     * Summary: [Link](https://github.com/usyyy/javascript/blob/master/JavaScript30/analysis.md#12-key-sequence-detection)
-3. [Create a Modal With HTML, CSS & JS](https://www.youtube.com/watch?v=6ophW7Ask_0)
-    * Demo: [Link](https://codepen.io/bradtraversy/pen/zEOrPp)
+    * Start: [Link](https://github.com/wesbos/JavaScript30/blob/master/12%20-%20Key%20Sequence%20Detection/index-START.html)
+3. [Toast Notification in Forms]()
 
 ## :octocat: &nbsp; **Optional Resources**
 
