@@ -22,7 +22,11 @@ This week we will cover:
     * Demo: [Link](https://vanntile.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/)
     * Summary: [Link](https://github.com/usyyy/javascript/blob/master/JavaScript30/analysis.md#12-key-sequence-detection)
     * Start: [Link](https://github.com/wesbos/JavaScript30/blob/master/12%20-%20Key%20Sequence%20Detection/index-START.html)
-3. [Toast Notification in Forms]()
+3. Toast Notification for Coupon Code
+    * Design: [Link](https://dribbble.com/shots/3805346--Your-toast-is-ready)
+    * Requirements:
+      - Must have a close button
+      - Must have two states for valid/expired coupons.
 
 ## :octocat: &nbsp; **Optional Resources**
 

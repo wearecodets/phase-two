@@ -38,6 +38,7 @@ This week we will cover:
 
 * [Altering the DOM](https://zellwk.com/blog/js-in-dom/)
 * [Traversing the DOM](https://zellwk.com/blog/dom-traversals/)
+* [Forms Techniques](https://javascript.info/form-elements#form-elements)
 * [What's the DOM, and why you should know how to use it](https://www.freecodecamp.org/news/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d/)
 
 ## :pencil2: &nbsp; **Homework Exercises**
