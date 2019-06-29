@@ -67,13 +67,19 @@ Pull request works like this:
 1. After accepting an assignment, clone the repo to your local machine.
 
 ```
-git clone git@github.com:wearecodets/hw1234-[YOUR GITHUB USER].git
+git clone git@github.com:wearecodets/hw123-[YOUR GITHUB USER].git
 ```
 
-2. Start a new branch called `answer` to work on solving the homework problem that is written as repo instructions.
+2. Start a new branch prefixed with `feature-` or `fix-` to begin work on the problems written in the homework repos:
 
 ```
-git checkout -b answer
+git checkout -b fix-submit-button
+```
+
+If a branch already exists remotely (check via `git branch -a`), simply check it out without creating a new one:
+
+```
+git checkout feature-carousel
 ```
 
 3. Commit changes as you go, leaving a trail of [descriptive commit messages](https://github.com/erlang/otp/wiki/writing-good-commit-messages).
@@ -86,7 +92,7 @@ git commit -m 'add css grid to home page'
 4. When ready for a code review, push your branch to remote and [open a pull request](https://help.github.com/en/articles/creating-a-pull-request#creating-the-pull-request) on Github. 
 
 ```
-git push origin answer
+git push origin fix-submit-button
 ```
 
 In the pull request message, you must describe the following:
