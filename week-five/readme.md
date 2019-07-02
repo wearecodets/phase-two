@@ -10,7 +10,7 @@ This week we will cover:
     * **Note:** Skip the part about installing Node. Your laptop already has Node installed.
   - [ ] [Modules](https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules) (15 exercises)
   - [ ] [Browser Compatibility and Transpilation](https://www.codecademy.com/courses/introduction-to-javascript/lessons/browser-compatibility-and-transpilation) (11 exercises)
-  - [ ] [Cookies vs. LocalStorage](https://medium.com/datadriveninvestor/cookies-vs-local-storage-2f3732c7d977)
+  - [ ] [Cookies vs. LocalStorage](https://dev.to/sandy8111112004/cookie-localstorage-or-sessionstorage-4lp2)
 
 ## :dart: &nbsp; **Weekly Mini Projects**
 
