@@ -6,24 +6,23 @@ This week we will cover:
 
 *Finish the required reading for [the previous week](../week-four) if you have not done so.* Remember to [mark completion](../week-zero/about.md#learning-guide) for reading participation points.
 
-  - [ ] [Javascript Promises](https://www.codecademy.com/courses/introduction-to-javascript/lessons/promises) (11 exercises)
-  - [ ] [What is an API](https://www.youtube.com/watch?v=s7wmiS2mSXY)
-  - [ ] [Explanation of REST & HTTP](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
+  - [ ] [NPM Crash Course](https://www.youtube.com/watch?v=jHDhaSSKmB0)
+    * **Note:** Skip the part about installing Node. Your laptop already has Node installed.
+  - [ ] [Modules](https://www.codecademy.com/courses/introduction-to-javascript/lessons/modules) (15 exercises)
+  - [ ] [Browser Compatibility and Transpilation](https://www.codecademy.com/courses/introduction-to-javascript/lessons/browser-compatibility-and-transpilation) (11 exercises)
+  - [ ] [Cookies vs. LocalStorage](https://medium.com/datadriveninvestor/cookies-vs-local-storage-2f3732c7d977)
 
 ## :dart: &nbsp; **Weekly Mini Projects**
 
-1. [Array Cardio Day 2](https://www.youtube.com/watch?v=QNmRfyNg1lw&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=7)
-    * Demo: [Link](https://vanntile.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/)
-    * Summary: [Link](https://github.com/usyyy/javascript/blob/master/JavaScript30/analysis.md#7-array-cardio-day-2)
-    * Start: [Link](https://github.com/wesbos/JavaScript30/blob/master/07%20-%20Array%20Cardio%20Day%202/index-START.html)
-2. [Type Ahead](https://www.youtube.com/watch?v=y4gZMJKAeWs&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=6)
-    * Demo: [Link](https://vanntile.github.io/JavaScript30/06%20-%20Type%20Ahead/)
-    * Summary: [Link](https://github.com/usyyy/javascript/blob/master/JavaScript30/analysis.md#6-type-ahead)
-    * Start: [Link](https://github.com/wesbos/JavaScript30/blob/master/06%20-%20Type%20Ahead/index-START.html)
+1. [LocalStorage](https://www.youtube.com/watch?v=YL1F4dCUlLc&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=15)
+    * Demo: [Link](https://vanntile.github.io/JavaScript30/15%20-%20LocalStorage/)
+    * Summary: [Link](https://github.com/usyyy/javascript/blob/master/JavaScript30/analysis.md#15-localstorage)
+    * Start: [Link](https://github.com/wesbos/JavaScript30/blob/master/15%20-%20LocalStorage/index-START.html)
 
 ## :octocat: &nbsp; **Optional Resources**
 
-* [Title]()
+* [Babel REPL](https://babeljs.io/repl)
+* [Flickity](https://flickity.metafizzy.co)
 
 ## :pencil2: &nbsp; **Homework Exercises**
 

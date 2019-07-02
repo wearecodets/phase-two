@@ -24,15 +24,15 @@ This week we will cover:
 1. [JavaScript Drum Kit](https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=1)
     * Demo: [Link](https://vanntile.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/)
     * Summary: [Link](https://github.com/usyyy/javascript/blob/master/JavaScript30/analysis.md#1-javascript-drum-kit)
-    * Start: [Link](https://github.com/wesbos/JavaScript30/blob/master/01%20-%20JavaScript%20Drum%20Kit/index-START.html)
+    * Start: [Link](https://github.com/wearecodets/mini-projects/tree/week-two-a)
 2. [Flex Panel Gallery](https://www.youtube.com/watch?v=9eif30i26jg&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=5)
     * Demo: [Link](https://vanntile.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/)
-    * Summary: [Link](hhttps://github.com/usyyy/javascript/blob/master/JavaScript30/analysis.md#5-flex-panel-gallery)
-    * Start: [Link](https://github.com/wesbos/JavaScript30/blob/master/05%20-%20Flex%20Panel%20Gallery/index-START.html)
+    * Summary: [Link](https://github.com/usyyy/javascript/blob/master/JavaScript30/analysis.md#5-flex-panel-gallery)
+    * Start: [Link](https://github.com/wearecodets/mini-projects/tree/week-two-b)
 3. [Sticky Nav](https://www.youtube.com/watch?v=5FLOBCGH3_U&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=24)
     * Demo: [Link](https://vanntile.github.io/JavaScript30/24%20-%20Sticky%20Nav/)
     * Summary: [Link](https://github.com/usyyy/javascript/blob/master/JavaScript30/analysis.md#24-sticky-nav)
-    * Start: [Link](https://github.com/wesbos/JavaScript30/blob/master/24%20-%20Sticky%20Nav/index-START.html)
+    * Start: [Link](https://github.com/wearecodets/mini-projects/tree/week-two-c)
 
 ## :octocat: &nbsp; **Optional Resources**
 
