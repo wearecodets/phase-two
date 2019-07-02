@@ -1,4 +1,4 @@
-# Array, Objects, Conditionals, Iterators
+# Array, Arrow Functions, Iterators, Scope
 
 This week we will cover:
 

@@ -1,5 +1,4 @@
-# Arrow Functions, Promises, Transpiler, Modules, JSON
-# Promises, APIs, JSON, Final Project 
+# Objects, Promises, Fetch, APIs, JSON
 
 This week we will cover:
 

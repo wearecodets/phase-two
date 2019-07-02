@@ -1,4 +1,4 @@
-# Promises, APIs, JSON, Final Project 
+# NPM, Transpiler, Modules, Client Side Storage
 
 This week we will cover:
 
