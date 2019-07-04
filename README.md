@@ -17,6 +17,4 @@ This is a practical, project-based course on Git, modern Javascript as well as r
 | 3 | July 6 | [Array, Arrow Functions, Iterators, Scope](./week-three) |
 | 4 | July 13 | [Objects, Promises, Fetch, APIs, JSON](./week-four) |
 | 5 | July 20 | [NPM, Transpiler, Modules, Client Side Storage](./week-five) |
-| 6 | July 27 | [Final Project](./week-six) |
-| 7 | Aug 3 | [Final Project](./week-seven) |
-| 8 | Aug 10 | [Final Project](./week-eight) |
+| 6 | July 27 | [Wrapping Up](./week-six) |
