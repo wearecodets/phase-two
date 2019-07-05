@@ -26,13 +26,15 @@ This week we will cover:
     * Design: [Link](https://dribbble.com/shots/3805346--Your-toast-is-ready)
     * Requirements:
       - Must have a close button.
-      - Must auto close after 5 seconds.
       - Simulate 1.5 second network delay.
-      - Apply button must have two states: "Apply Code"/"Applying..."
-      - Notification must have two states for valid/expired coupons.
+      - Voucher input must have two colored states (`.form__voucher--success` / `.form__voucher--failed`).
+      - Apply button must switch between two label: "Apply Code"/"Applying...".
+      - Notification must have two states for valid/expired coupons (`.toast--success` / `.toast--failed`).
       - Must validate coupon codes:
-        * Valid: CTW20OFF, ROSHANRUSH
-        * Expired: CTW123, MAMPANGMADNESS
+        * Valid: CTW20OFF, ROSHANRUSH — "Voucher successfully applied."
+        * Expired: CTW123, MAMPANGMADNESS — "Voucher code is expired. Please try again."
+        * Nonexistent: "That voucher doesn't exist."
+
 
 ## :octocat: &nbsp; **Optional Resources**
 
