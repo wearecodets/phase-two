@@ -34,6 +34,10 @@ This week we will cover:
         * Valid: CTW20OFF, ROSHANRUSH — "Voucher successfully applied."
         * Expired: CTW123, MAMPANGMADNESS — "Voucher code is expired. Please try again."
         * Nonexistent: "That voucher doesn't exist."
+    * End Goal:
+      - ![Visual](https://res.cloudinary.com/yicf/image/upload/w_400/v1562311723/Code%20The%20Web/toasty.gif)
+      
+      - ![Classing](https://res.cloudinary.com/yicf/image/upload/w_400/v1562312189/Code%20The%20Web/toasty-too.gif)
 
 
 ## :octocat: &nbsp; **Optional Resources**
