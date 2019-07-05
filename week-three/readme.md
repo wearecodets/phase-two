@@ -27,8 +27,10 @@ This week we will cover:
     * Requirements:
       - Must have a close button.
       - Must auto close after 5 seconds.
-      - Must have two states for valid/expired coupons.
-      - List of coupon codes:
+      - Simulate 1.5 second network delay.
+      - Apply button must have two states: "Apply Code"/"Applying..."
+      - Notification must have two states for valid/expired coupons.
+      - Must validate coupon codes:
         * Valid: CTW20OFF, ROSHANRUSH
         * Expired: CTW123, MAMPANGMADNESS
 
