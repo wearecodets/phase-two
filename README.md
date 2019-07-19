@@ -16,5 +16,7 @@ This is a practical, project-based course on Git, modern Javascript as well as r
 | 2 | June 29 | [Variables, Functions, DOM, Browser Events, Dev Tools](./week-two) |
 | 3 | July 6 | [Array, Arrow Functions, Iterators, Scope](./week-three) |
 | 4 | July 13 | [Objects, Promises, Fetch, APIs, JSON](./week-four) |
-| 5 | July 20 | [NPM, Transpiler, Modules, Client Side Storage](./week-five) |
-| 6 | July 27 | [Wrapping Up](./week-six) |
+| 5 | July 20 | ~~[NPM, Transpiler, Modules, Client Side Storage](./week-five)~~ Homework Catch Up |
+| 6 | July 27 | ~~[Wrapping Up](./week-six)~~ Homework Catch Up |
+| 7 | Aug 3 | Homework Catch Up |
+| 8 | Aug 10 | Homework Catch Up |
